@@ -1,6 +1,6 @@
 # Apple External Video Connector M4099LL/B
 
-This is a tested and working analog board recreation of the Apple External Video Connector M4099LL/B.
+This is a tested and working board recreation of the Apple External Video Connector M4099LL/B.
 This is the connector board enables many older all-in-one Macintosh computers to provide video output. 
 This board is for video mirroring, it does not render independent output.
 
@@ -19,7 +19,7 @@ The External Video board can be used on:
 
 ## Improvements
 
-* Replaced EOL parts for modern replacements.
+* I replaced EOL parts for modern replacements.
 
 ## JLC
 
@@ -81,9 +81,4 @@ You need to choose what kind of connector you want to end with: VGA or DB15. The
 
 ## License
 
-The provided logicboard files are licensed under CC-BY-NC-SA - they are NOT intended for commercial use.
-
-## Disclaimer
-
-This project involves potentially lethal High-Voltage. Construction and operation of this circuit should only be performed by people familiar with best practices when operating with high voltage, and using extreme caution.
-I will not be held liable for injury or even death resulting from this part. Build and use this part only at your own risk.
+The provided files are licensed under CC-BY-NC-SA - they are NOT intended for commercial use.
