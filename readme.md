@@ -1,8 +1,6 @@
 # Apple External Video Connector M4099LL/B
 
-This is a tested and working board recreation of the Apple External Video Connector M4099LL/B.
-This is the connector board enables many older all-in-one Macintosh computers to provide video output. 
-This board is for video mirroring, it does not render independent output.
+This is a tested and working board recreation of the Apple External Video Connector M4099LL/B. The board is also known as '820-0656-A'. This is the connector board enables many older all-in-one Macintosh computers to provide video output. This board is for video mirroring, it does not render independent output.
 
 ![](images/side.jpg)
 
